@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CharSheetBackend", "CharSheetBackend\CharSheetBackend.csproj", "{CBC6AFD6-8995-40D5-BBA2-21EAE90B23E0}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Database_charsheet", "Database_charsheet\Database_charsheet.sqlproj", "{7B89006D-0117-467C-BCCD-6C04AEDE2381}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBC6AFD6-8995-40D5-BBA2-21EAE90B23E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC6AFD6-8995-40D5-BBA2-21EAE90B23E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC6AFD6-8995-40D5-BBA2-21EAE90B23E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC6AFD6-8995-40D5-BBA2-21EAE90B23E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B89006D-0117-467C-BCCD-6C04AEDE2381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B89006D-0117-467C-BCCD-6C04AEDE2381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B89006D-0117-467C-BCCD-6C04AEDE2381}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7B89006D-0117-467C-BCCD-6C04AEDE2381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B89006D-0117-467C-BCCD-6C04AEDE2381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B89006D-0117-467C-BCCD-6C04AEDE2381}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D230BC7-4658-4F33-AB95-A0E830F035AA}
+	EndGlobalSection
+EndGlobal
